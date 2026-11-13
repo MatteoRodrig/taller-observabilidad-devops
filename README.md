@@ -3,7 +3,7 @@
 Este repositorio contiene la solución integral para el taller de Observabilidad y Monitoreo del curso de Introducción a DevOps (Universidad Nacional de Colombia - Sede Manizales).
 
 ## 👥 Integrantes del Equipo
-* **Julián Mateo Rodríguez Díaz**
+* **Julian Mateo Rodríguez Díaz**
 * **Daniela Fernanda Mendoza Epia**
 
 ## 📋 Descripción del Proyecto
